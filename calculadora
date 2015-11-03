@@ -30,6 +30,6 @@ int main(void)
 
             printf("Calculando: %.2f %c %.2f = ", num1,oper,num2);
 
-
+tumba
             
  
