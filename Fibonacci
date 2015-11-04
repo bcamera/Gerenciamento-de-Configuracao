@@ -4,9 +4,7 @@ void main()
   // Declaração de variáveis.
   int a, b, auxiliar, i, n;
 
-  // Aqui foi necessário atribuir valores as variáveis a e b.
-  a = 0;
-  b = 1;
+  
 
-  // A função printf() escreve na tela.
-  printf("Digite um número: ");
+  
+  printf("Digite um número: ")
